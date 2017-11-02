@@ -1,0 +1,26 @@
+{
+    "total_count": 1,
+    "incomplete_results": false,
+    "items": [
+      {
+        "login": "_______",
+        "id": 147231,
+        "avatar_url": "https://avatars.githubusercontent.com/u/147231?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/_______",
+        "html_url": "https://github.com/_______",
+        "followers_url": "https://api.github.com/users/_______/followers",
+        "following_url": "https://api.github.com/users/_______/following{/other_user}",
+        "gists_url": "https://api.github.com/users/_______/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/_______/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/_______/subscriptions",
+        "organizations_url": "https://api.github.com/users/_______/orgs",
+        "repos_url": "https://api.github.com/users/_______/repos",
+        "events_url": "https://api.github.com/users/_______/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/_______/received_events",
+        "type": "User",
+        "site_admin": false,
+        "score": 107.22611
+      }
+    ]
+  }

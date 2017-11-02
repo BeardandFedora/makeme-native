@@ -1,0 +1,26 @@
+{
+  "total_count": 1,
+  "incomplete_results": false,
+  "items": [
+    {
+      "login": "thinq4yourself",
+      "id": 147231,
+      "avatar_url": "https://avatars.githubusercontent.com/u/147231?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/thinq4yourself",
+      "html_url": "https://github.com/thinq4yourself",
+      "followers_url": "https://api.github.com/users/thinq4yourself/followers",
+      "following_url": "https://api.github.com/users/thinq4yourself/following{/other_user}",
+      "gists_url": "https://api.github.com/users/thinq4yourself/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/thinq4yourself/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/thinq4yourself/subscriptions",
+      "organizations_url": "https://api.github.com/users/thinq4yourself/orgs",
+      "repos_url": "https://api.github.com/users/thinq4yourself/repos",
+      "events_url": "https://api.github.com/users/thinq4yourself/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/thinq4yourself/received_events",
+      "type": "User",
+      "site_admin": false,
+      "score": 107.22611
+    }
+  ]
+}
